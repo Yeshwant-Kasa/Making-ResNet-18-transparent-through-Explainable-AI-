@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+results/*
+*.png
+*.jpg
+*.pdf
+
+# Models
+*.pth
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
