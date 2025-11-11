@@ -1,0 +1,26 @@
+explainable-ai-part-b/
+│
+├── code/
+│   ├── task1_resnet_explainability.py      # ResNet training + XAI visualizations
+│   ├── task2_parzen_knn_comparison.py      # Parzen & KNN with PCA + boundary plots
+│   └── utils/
+│       ├── data_loader.py                  # CIFAR-10 subset loader
+│       └── visualization.py                # Plotting helpers
+│
+├── results/
+│   ├── task1/
+│   │   ├── training_curves.png
+│   │   └── attribution_maps/               # Saliency, Grad-CAM, Integrated
+│   ├── task2/
+│   │   ├── accuracy_vs_param.png
+│   │   ├── parzen_boundary_h=0.5.png
+│   │   └── knn_boundary_k=5.png
+│   └── report_figures/                     # All figures in report
+│
+├── notebooks/
+│   └── Exploratory_Analysis.ipynb          # Optional: EDA, hyperparam tuning
+│
+├── Project Part B - Kasa Yeshwant.pdf     # Full 14-page academic report
+├── requirements.txt
+├── README.md                               # You are here!
+└── .gitignore
