@@ -68,16 +68,17 @@ Boundary: jagged, locally adaptive
 
 # 📊 Visualization Highlights
 <img width="1189" height="490" alt="KNNClassifier Performance" src="https://github.com/user-attachments/assets/3dfe3522-4730-48e7-8231-beadd03b8725" />
-<img width="689" height="547" alt="Parzen Window KNN" src="https://github.com/user-attachments/assets/482aad8c-e2e7-4d58-89e5-9da0984fee7d" />
 
 
 # 📈 Accuracy plots: show smooth degradation trends
 
 <img width="1009" height="371" alt="Train Vs Val Accuracy" src="https://github.com/user-attachments/assets/ab927548-cc8d-42f4-87fe-4264f6e168d1" />
-<img width="1009" height="371" alt="Training Loss Over Epochs" src="https://github.com/user-attachments/assets/c05dcd3b-8ae5-4c8d-856d-0eb4412db0c4" />
+<img width="1009" height="371" alt="Training Loss Over Epochs" src="https://github.com/user-attachments/assets/8cd64a11-524a-43b3-92fe-15867f736c00" />
+
 
 # 🗺️ Decision boundaries: 300×300 meshgrid, coolwarm colormap
 <img width="689" height="547" alt="Decision Boundary Parzen Window" src="https://github.com/user-attachments/assets/a1b59d28-4a66-419d-b178-2e66c1b0da4f" />
+<img width="689" height="547" alt="Parzen Window KNN" src="https://github.com/user-attachments/assets/482aad8c-e2e7-4d58-89e5-9da0984fee7d" />
 
 
 # 🎨 Scatter plots: true labels overlayed for class-wise interpretability
